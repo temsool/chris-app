@@ -15,6 +15,8 @@
     "serve-static": "^1.14.2",
     "vue": "^3.2.13",
     "vue-router": "^4.0.3",
+    "vue3-charts": "^1.1.31",
+    "vue3-popper": "^1.4.2",
     "vuetify": "^3.0.0-beta.0",
     "vuex": "^4.0.0",
     "webfontloader": "^1.0.0"
@@ -25,7 +27,7 @@
     "@vue/cli-plugin-vuex": "~5.0.0",
     "@vue/cli-service": "~5.0.0",
     "sass": "^1.38.0",
-    "sass-loader": "^10.0.0",
+    "sass-loader": "^10.2.1",
     "vue-cli-plugin-vuetify": "~2.4.8",
     "vuetify-loader": "^2.0.0-alpha.0"
   }
